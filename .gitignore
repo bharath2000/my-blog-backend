@@ -1,0 +1,6 @@
+/mongo-db-data
+/node_modules
+credentials.json
+/build
+.env
+prod-env.yaml
